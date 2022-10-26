@@ -1,7 +1,7 @@
 html{
   background-color: hsl(233, 47%, 7%);
 }
-/*COMPONENTE MAQUETADO DESKTOP*/
+/*COMPONENTE MAQUETADO DESKTOP CON BOOSTRAP 5*/
 
 #container_maquetado{
   background-color: hsl(233, 47%, 7%);
@@ -47,8 +47,5 @@ html{
   padding: 0;
 }
 
-/* TABLET RESPONSIVE*/
 
-
-/*MOBILE RESPONSIVE*/
 
